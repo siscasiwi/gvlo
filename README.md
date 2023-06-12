@@ -2,4 +2,4 @@
 
 
 
-Click to visit website: https://github.com/siscasiwi/gvlo.git
+Click to visit website: https://siscasiwi.github.io/gvlo/
